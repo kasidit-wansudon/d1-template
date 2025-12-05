@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "41caa162-47cd-4578-b11b-03ee743c4cc1",
+			"database_name": "catcare"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
